@@ -1,4 +1,8 @@
-# needs connection error handling in get_code
+#   Run file from command line with Python3 or use IDE. It will ask for list file name first; if this tool is not in the 
+# same dir as the list file, include path with name.
+#   Will ask for file name to store checked domain/status code list. If does not exist will create. Again include path
+# or will create in dir with SubDoChck.py tool.
+# -- Enjoy and feedback is welcome. --
 import requests
 
 # Read from
